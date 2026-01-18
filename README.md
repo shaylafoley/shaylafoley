@@ -1,16 +1,22 @@
-## Hi there 👋
+# <Shayla Foley>
 
-<!--
-**shaylafoley/shaylafoley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Shayla Foley, a student at Brigham Young University-Idaho interested in computer science and web development. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning software development in my BYU-I courses.  
+- My goals are to develop and analyze software for companies and to create web applications.
+- Ask me about my Blazor apps!
+
+## Technologies and Tools
+
+- Proficient in: Python, JavaScript and C#
+- Skills: Creative, Dependable, Teachable, and Resourceful
+
+## Let's Connect!
+
+- Here is my [LinkedIn]([Your LinkedIn Profile Link](https://www.linkedin.com/in/shayla-foley-601295268/)) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
