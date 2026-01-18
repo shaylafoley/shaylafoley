@@ -17,6 +17,6 @@ I'm Shayla Foley, a student at Brigham Young University-Idaho interested in comp
 
 ## Let's Connect!
 
-- Here is my ([LinkedIn Profile(https://www.linkedin.com/in/shayla-foley-601295268/))
+- Here is my LinkedIn Profile(https://www.linkedin.com/in/shayla-foley-601295268/)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
